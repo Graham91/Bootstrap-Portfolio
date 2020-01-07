@@ -157,7 +157,7 @@ line-height: 20px;
 
 }
 
-@media screen and (max-width: 925px) {
+@media screen and (max-width: 1000px) {
     #hide {
      background-color: thistle;
      display: none;
