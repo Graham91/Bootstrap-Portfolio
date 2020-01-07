@@ -127,6 +127,14 @@ font-weight: bold;
 line-height: 20px;
 }
 
+.bootstraprevised{
+    margin-bottom: 70px;
+}
+.portfoliopad{
+    padding-left: 20px;
+}
+
+
 @media screen and (min-width: 600px)  {
 .name33{
     width: 475px;
@@ -146,3 +154,4 @@ line-height: 20px;
     }
 
 }
+
